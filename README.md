@@ -1,3 +1,9 @@
+# Title: Chess Game
+I am planning to create a chess game in Java
+
+## Purpose:
+I been playing chess ever since I was a child and I thought it would be cool to create a game using Java.
+
 ## My Plan:
 1. Define a class for the chess board, which contains an 8x8 array to represent the squares on the board. Each square can hold a chess piece object, or be empty.
 2. Define a class for the chess pieces, which includes their type (e.g. pawn, bishop, knight), color (white or black), and their current position on the board.
